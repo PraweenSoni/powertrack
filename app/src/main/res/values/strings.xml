@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Power Track</string>
+    <string name="FBI">Fetching Battery Info…</string>
+    <string name="sendmail">Feedback!</string>
+    <string name="footertxt">Created by Pks. (V 1.1.0)</string>
+</resources>
